@@ -118,8 +118,6 @@ function yy() {
 
 # opencode
 export PATH=/home/a7r/.opencode/bin:$PATH
-export PERPLEXITY_API_KEY="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"
-export TAVILY_API_KEY="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"
 export DEEPSEEK_USE_LOCAL=true
 . "$HOME/.local/bin/env"
 autoload -U compinit
