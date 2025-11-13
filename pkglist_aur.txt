@@ -1,0 +1,7 @@
+argc
+oatmeal-bin
+peaclock
+pwvucontrol
+thorium-browser-bin
+yay
+yay-debug
